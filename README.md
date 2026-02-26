@@ -1,4 +1,8 @@
 ## Hi there 👋
+### My name is Jeff Uzodinma and I am an entrepreneur providing software products as a service.
+- For context i have been creating software since 2012 professionally. I am very comfortable doing both backend technologies and frontend technologies as that is how i started. 
+- I currently write with golang  and python for backend technologies. For frontend i use reactjs or vuejs depending on the requirement for the project. My css is very good, i can recreate a UI design very well.
+- 📫 How to reach me: mailto:jeffrey@ecardex.com
 
 <!--
 **jeffdico/jeffdico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
