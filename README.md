@@ -4,7 +4,7 @@
 - I currently write with golang  and python for backend technologies. For frontend i use reactjs or vuejs depending on the requirement for the project. My css is very good, i can recreate a UI design very well.
 - I have rich industrial experience and have worked on both high-traffic and low-traffic based applications.
 - I can work independently and also alongside a team. With project ownership type commitments.
-- 
+- I have done both large and small traffic-based solutions. I have led teams and also done solo work.
 - I am well grounded and capable of making your business application come to fruition. 
 - 📫 How to reach me: mailto:jeffrey@ecardex.com; mailto:jeffdico@gmail.com
 
